@@ -1,0 +1,22 @@
+{
+  "name": "td-myapp",
+  "version": "0.0.0",
+  "private": true,
+  "description": "a td.js application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "exit 1",
+    "start": "node app.js",
+    "debug": "node debug app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonDotsoy/td.js-myApp.git"
+  },
+  "author": "Jon Dotsoy <hi@jon.soy>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonDotsoy/td.js-myApp/issues"
+  },
+  "homepage": "https://github.com/JonDotsoy/td.js-myApp#readme"
+}
